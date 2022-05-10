@@ -110,7 +110,7 @@ const controlAddRecipe = async function (newRecipe) {
   }
 };
 const newFeature = function () {
-  console.log('wellcome to the app');
+  console.log('Test message for CI/CD');
 };
 
 const init = function () {
